@@ -1,0 +1,4 @@
+[03-Feb-2021 09:01:39 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/shresthinfosec/public_html/Hotel/application/config/config.php on line 529
+[03-Feb-2021 09:01:39 UTC] PHP Fatal error:  Cannot redeclare __autoload() (previously declared in /home2/shresthinfosec/public_html/Hotel/application/config/config.php:529) in /home2/shresthinfosec/public_html/Hotel/application/config/config.php on line 538
+[03-Feb-2021 11:17:21 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/shresthinfosec/public_html/Hotel/application/controllers/Admin/ControllerAdmin.php on line 32
+[04-Feb-2021 06:06:24 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home2/shresthinfosec/public_html/Hotel/application/views/front/pages/feedback.php on line 2
